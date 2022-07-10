@@ -1,0 +1,15 @@
+Yarisma basladi!!
+Yarismaci HP = 100
+Yarismaci 25. metreye kadar bir engelle karsilasmadi.
+25. metrede bir engel var.100 ile 25 aralarinda asal degildir.
+Yarismaci HP = 100
+Yarismaci 41. metreye kadar bir engelle karsilasmadi.
+41. metrede bir engel var.100 ile 41 aralarinda asaldir.
+Yarismaci HP = 59
+Yarismaci 49. metreye kadar bir engelle karsilasmadi.
+49. metrede bir engel var.59 ile 49 aralarinda asaldir.
+Yarismaci HP = 10
+Yarismaci 65. metreye kadar bir engelle karsilasmadi.
+65. metrede bir engel var.10 ile 65 aralarinda asal degildir.
+Yarismaci HP = 10
+Tebrikler!! Yarismayi 10 HP ile biridiniz!!
